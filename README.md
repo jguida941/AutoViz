@@ -31,6 +31,12 @@
     </ul>
   </div>
 
+
+
+<img width="1599" alt="Screenshot 2025-06-30 at 3 21 16 AM" src="https://github.com/user-attachments/assets/d2675a23-de10-4adf-82e5-19dc734df2d9" />
+<img width="1728" alt="Screenshot 2025-06-30 at 4 10 28 AM" src="https://github.com/user-attachments/assets/a82c9597-64e1-4cbe-b2ac-74a11ffe5084" />
+<img width="1728" alt="Screenshot 2025-06-30 at 4 10 40 AM" src="https://github.com/user-attachments/assets/b9dc9b26-8c59-4415-8a1c-11044b99cc58" />
+
   <div class="section">
     <h2>Installation</h2>
     <pre><code>git clone https://github.com/jguida941/AutoViz.git
@@ -105,6 +111,7 @@ Engineering,Feb,130000,80000,50000</code></pre>
     <p>
       Built by @jguida941 as a proof-of-concept to replace tedious data automation and analysis scripts.<br>
       If AutoViz helped you or inspired you, give it a ⭐️!
+      
     </p>
   </div>
 
