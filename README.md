@@ -112,7 +112,7 @@ Engineering,Feb,130000,80000,50000</code></pre>
       Built by @jguida941 as a proof-of-concept to replace tedious data automation and analysis scripts.<br>
       If AutoViz helped you or inspired you, give it a ⭐️!
       
-    </p>
+  
   </div>
 
 </body>
