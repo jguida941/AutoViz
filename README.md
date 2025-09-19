@@ -9,7 +9,7 @@
 
   <h1>AutoViz</h1>
   <p>
-    🚀 A Zero-Code Auto-Visual Analytics Tool — Built with PyQt6, Matplotlib, and Pandas
+     A Zero-Code Auto-Visual Analytics Tool, Built with PyQt6, Matplotlib, and Pandas
   </p>
   <p>
     AutoViz is a sleek, fast, fully functional data visualization and regression dashboard built in just over an hour.
@@ -21,13 +21,13 @@
   <div class="section">
     <h2>Features</h2>
     <ul>
-      <li>📂 Drag & Drop CSV Import</li>
-      <li>📊 Live Bar, Line, and Pie Chart Generator</li>
-      <li>🧠 Smart Axis Detection from CSV Headers</li>
-      <li>📉 On-Click OLS Regression (scikit-learn / statsmodels)</li>
-      <li>📋 Auto-computed Summary Stats & Memory Usage</li>
-      <li>🌒 Modern Dark UI with Neon Highlights</li>
-      <li>🧠 No Code Required — Works Right Out of the Box</li>
+      <li> Drag & Drop CSV Import</li>
+      <li> Live Bar, Line, and Pie Chart Generator</li>
+      <li> Smart Axis Detection from CSV Headers</li>
+      <li> On-Click OLS Regression (scikit-learn / statsmodels)</li>
+      <li> Auto-computed Summary Stats & Memory Usage</li>
+      <li> Modern Dark UI with Neon Highlights</li>
+      <li> No Code Required — Works Right Out of the Box</li>
     </ul>
   </div>
 
@@ -55,11 +55,11 @@ python AutoViz.py</code></pre>
       <li>Optionally, run regression via the Run OLS button</li>
       <li>Use the Export tab to save outputs or analysis logs</li>
     </ol>
-    <p>✅ Works with any well-formed CSV (e.g. finance, marketing, engineering logs, etc.)</p>
+    <p> Works with any well-formed CSV (e.g. finance, marketing, engineering logs, etc.)</p>
   </div>
 
   <div class="section">
-    <h2>🍎 Example CSV</h2>
+    <h2> Example CSV</h2>
     <p>Here’s a sample format your CSV could follow:</p>
     <pre><code>Department,Month,Revenue,Expenses,Profit
 Sales,Jan,100000,60000,40000
@@ -71,7 +71,7 @@ Engineering,Feb,130000,80000,50000</code></pre>
   </div>
 
   <div class="section">
-    <h2>🛠 Planned Features</h2>
+    <h2> Planned Features</h2>
     <ul>
       <li>Auto-update headers when switching datasets</li>
       <li>Forecasting module (e.g. ARIMA / Exponential Smoothing)</li>
@@ -81,14 +81,14 @@ Engineering,Feb,130000,80000,50000</code></pre>
   </div>
 
   <div class="section">
-    <h2>🤝 Contributing</h2>
+    <h2> Contributing</h2>
     <p>
       Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or add.
     </p>
   </div>
 
   <div class="section">
-    <h2>🛡 License</h2>
+    <h2> License</h2>
     <p>
       Creative Commons Attribution-NonCommercial 4.0 International<br>
       <a href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</a>
@@ -107,10 +107,10 @@ Engineering,Feb,130000,80000,50000</code></pre>
   </div>
 
   <div class="section">
-    <h2>👁️‍🗨️ About</h2>
+    <h2> About</h2>
     <p>
       Built by @jguida941 as a proof-of-concept to replace tedious data automation and analysis scripts.<br>
-      If AutoViz helped you or inspired you, give it a ⭐️!
+     
       
   
   </div>
