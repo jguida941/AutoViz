@@ -1,0 +1,16 @@
+Evaluation License — All Rights Reserved
+
+Copyright (c) 2025 Justin Guida (@jguida941). All rights reserved.
+
+Permission granted: You may clone this repository and run it locally for personal use or hiring evaluation only.
+
+Not permitted without written permission:
+	•	Redistribution (public or private), hosting, or packaging of the code or binaries
+	•	Sublicensing or derivative distribution
+	•	Any commercial use
+
+Third-party notice (Qt): This app uses PyQt6 (GPLv3). Local evaluation is fine. Do not redistribute this app or any built binaries unless you comply with the GPL or possess a Qt commercial license. Nothing here grants rights in PyQt6/Qt.
+
+No warranty: Provided “as is,” without warranties or liability.
+
+For exceptions or a commercial/evaluation agreement signed by me, contact: justin.guida@snhu.edu
