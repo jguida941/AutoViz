@@ -27,7 +27,7 @@
       <li> On-Click OLS Regression (scikit-learn / statsmodels)</li>
       <li> Auto-computed Summary Stats & Memory Usage</li>
       <li> Modern Dark UI with Neon Highlights</li>
-      <li> No Code Required — Works Right Out of the Box</li>
+      <li> No Code Required Works Right Out of the Box</li>
     </ul>
   </div>
 
