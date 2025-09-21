@@ -16,7 +16,6 @@
     It provides non-technical users the ability to upload CSVs, generate charts, run regression analysis, and explore key metrics
     without writing a single line of code.
   </p>
-  <p><strong>License:</strong> Creative Commons BY-NC 4.0</p>
 
   <div class="section">
     <h2>Features</h2>
@@ -30,6 +29,11 @@
       <li> No Code Required Works Right Out of the Box</li>
     </ul>
   </div>
+
+
+ <div class="section">
+    <h2>AutoViz Analytics Dashboard</h2>
+ </div>  
 
 
 
