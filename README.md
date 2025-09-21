@@ -92,25 +92,6 @@ Engineering,Feb,130000,80000,50000</code></pre>
   </div>
 
   <div class="section">
-    <h2> License</h2>
-    <p>
-      Creative Commons Attribution-NonCommercial 4.0 International<br>
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</a>
-    </p>
-    <p>You are free to:</p>
-    <ul>
-      <li>Share — copy and redistribute the material in any medium or format</li>
-      <li>Adapt — remix, transform, and build upon the material</li>
-    </ul>
-    <p>Under the following terms:</p>
-    <ul>
-      <li>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made</li>
-      <li>NonCommercial — You may not use the material for commercial purposes</li>
-    </ul>
-    <p>No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
-  </div>
-
-  <div class="section">
     <h2> About</h2>
     <p>
       Built by @jguida941 as a proof-of-concept to replace tedious data automation and analysis scripts.<br>
